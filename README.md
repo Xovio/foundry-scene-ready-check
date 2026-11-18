@@ -10,6 +10,11 @@ Preloads the next scene for everyone in **Foundry VTT** and shows the GM who is 
 
 You can activate at any time, so a player with a slow connection never holds up the game. Closing the window stops the preparation. The normal way of activating scenes is unchanged.
 
+## Screenshots
+
+<img width="397" height="214" alt="image" src="https://github.com/user-attachments/assets/da05a0da-dd9e-43cc-9243-c8cb6b2620b2" />
+
+
 ## Settings
 
 - **Activate automatically when everyone is ready:** a checkbox in the window, off by default
