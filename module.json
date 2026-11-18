@@ -1,0 +1,29 @@
+{
+  "id": "scene-ready",
+  "title": "Scene Ready Check",
+  "description": "Preloads the next scene for everyone and shows the GM each player's loading progress, so the scene can be activated once all players are ready.",
+  "authors": [
+    {
+      "name": "Xovio"
+    }
+  ],
+  "version": "0.1.0",
+  "license": "LICENSE",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.343",
+    "maximum": "12"
+  },
+  "socket": true,
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/scene-ready.css"
+  ],
+  "url": "https://github.com/Xovio/foundry-scene-ready-check",
+  "manifest": "https://github.com/Xovio/foundry-scene-ready-check/releases/latest/download/module.json",
+  "download": "https://github.com/Xovio/foundry-scene-ready-check/releases/download/v0.1.0/module.zip",
+  "bugs": "https://github.com/Xovio/foundry-scene-ready-check/issues",
+  "readme": "https://github.com/Xovio/foundry-scene-ready-check/blob/main/README.md"
+}
